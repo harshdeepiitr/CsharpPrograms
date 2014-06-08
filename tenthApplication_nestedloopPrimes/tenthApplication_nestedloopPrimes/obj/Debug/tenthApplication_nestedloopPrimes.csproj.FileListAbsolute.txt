@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\tenthApplication_nestedloopPrimes\tenthApplication_nestedloopPrimes\bin\Debug\tenthApplication_nestedloopPrimes.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\tenthApplication_nestedloopPrimes\tenthApplication_nestedloopPrimes\bin\Debug\tenthApplication_nestedloopPrimes.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\tenthApplication_nestedloopPrimes\tenthApplication_nestedloopPrimes\bin\Debug\tenthApplication_nestedloopPrimes.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\tenthApplication_nestedloopPrimes\tenthApplication_nestedloopPrimes\obj\Debug\tenthApplication_nestedloopPrimes.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\tenthApplication_nestedloopPrimes\tenthApplication_nestedloopPrimes\obj\Debug\tenthApplication_nestedloopPrimes.pdb

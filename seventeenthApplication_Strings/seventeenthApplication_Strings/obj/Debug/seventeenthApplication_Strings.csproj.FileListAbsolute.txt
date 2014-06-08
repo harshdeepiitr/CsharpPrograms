@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventeenthApplication_Strings\seventeenthApplication_Strings\bin\Debug\seventeenthApplication_Strings.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventeenthApplication_Strings\seventeenthApplication_Strings\bin\Debug\seventeenthApplication_Strings.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventeenthApplication_Strings\seventeenthApplication_Strings\bin\Debug\seventeenthApplication_Strings.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventeenthApplication_Strings\seventeenthApplication_Strings\obj\Debug\seventeenthApplication_Strings.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventeenthApplication_Strings\seventeenthApplication_Strings\obj\Debug\seventeenthApplication_Strings.pdb

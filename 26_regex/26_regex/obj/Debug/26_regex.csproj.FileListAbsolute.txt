@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\26_regex\26_regex\bin\Debug\26_regex.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\26_regex\26_regex\bin\Debug\26_regex.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\26_regex\26_regex\bin\Debug\26_regex.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\26_regex\26_regex\obj\Debug\26_regex.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\26_regex\26_regex\obj\Debug\26_regex.pdb

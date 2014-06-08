@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\27_properties\27_properties\bin\Debug\27_properties.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\27_properties\27_properties\bin\Debug\27_properties.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\27_properties\27_properties\bin\Debug\27_properties.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\27_properties\27_properties\obj\Debug\27_properties.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\27_properties\27_properties\obj\Debug\27_properties.pdb

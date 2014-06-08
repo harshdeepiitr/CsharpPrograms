@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

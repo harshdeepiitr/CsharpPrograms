@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ninteenthApplication_staticMembers\ninteenthApplication_staticMembers\bin\Debug\ninteenthApplication_staticMembers.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ninteenthApplication_staticMembers\ninteenthApplication_staticMembers\bin\Debug\ninteenthApplication_staticMembers.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ninteenthApplication_staticMembers\ninteenthApplication_staticMembers\bin\Debug\ninteenthApplication_staticMembers.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ninteenthApplication_staticMembers\ninteenthApplication_staticMembers\obj\Debug\ninteenthApplication_staticMembers.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ninteenthApplication_staticMembers\ninteenthApplication_staticMembers\obj\Debug\ninteenthApplication_staticMembers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\25_namespaces\25_namespaces\bin\Debug\25_namespaces.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\25_namespaces\25_namespaces\bin\Debug\25_namespaces.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\25_namespaces\25_namespaces\bin\Debug\25_namespaces.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\25_namespaces\25_namespaces\obj\Debug\25_namespaces.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\25_namespaces\25_namespaces\obj\Debug\25_namespaces.pdb

@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\eleventhApplication_pricateAccess\eleventhApplication_pricateAccess\bin\Debug\eleventhApplication_pricateAccess.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\eleventhApplication_pricateAccess\eleventhApplication_pricateAccess\bin\Debug\eleventhApplication_pricateAccess.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\eleventhApplication_pricateAccess\eleventhApplication_pricateAccess\bin\Debug\eleventhApplication_pricateAccess.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\eleventhApplication_pricateAccess\eleventhApplication_pricateAccess\obj\Debug\eleventhApplication_pricateAccess.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\eleventhApplication_pricateAccess\eleventhApplication_pricateAccess\obj\Debug\eleventhApplication_pricateAccess.pdb

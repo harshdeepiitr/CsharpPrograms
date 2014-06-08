@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ForthApplication_StringConversion\ForthApplication_StringConversion\bin\Debug\ForthApplication_StringConversion.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ForthApplication_StringConversion\ForthApplication_StringConversion\bin\Debug\ForthApplication_StringConversion.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ForthApplication_StringConversion\ForthApplication_StringConversion\bin\Debug\ForthApplication_StringConversion.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ForthApplication_StringConversion\ForthApplication_StringConversion\obj\Debug\ForthApplication_StringConversion.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\ForthApplication_StringConversion\ForthApplication_StringConversion\obj\Debug\ForthApplication_StringConversion.pdb

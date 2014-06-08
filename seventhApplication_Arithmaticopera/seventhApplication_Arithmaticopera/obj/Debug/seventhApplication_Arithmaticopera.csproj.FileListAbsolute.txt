@@ -1,0 +1,5 @@
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventhApplication_Arithmaticopera\seventhApplication_Arithmaticopera\bin\Debug\seventhApplication_Arithmaticopera.exe.config
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventhApplication_Arithmaticopera\seventhApplication_Arithmaticopera\bin\Debug\seventhApplication_Arithmaticopera.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventhApplication_Arithmaticopera\seventhApplication_Arithmaticopera\bin\Debug\seventhApplication_Arithmaticopera.pdb
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventhApplication_Arithmaticopera\seventhApplication_Arithmaticopera\obj\Debug\seventhApplication_Arithmaticopera.exe
+C:\Users\Harshdeep.Tuteja\Documents\Visual Studio 2012\Projects\Programs\seventhApplication_Arithmaticopera\seventhApplication_Arithmaticopera\obj\Debug\seventhApplication_Arithmaticopera.pdb
